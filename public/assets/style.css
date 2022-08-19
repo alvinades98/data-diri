@@ -1,0 +1,12 @@
+.bt-kanan{
+    float: right
+}
+body{
+    background-color: rgb(230, 233, 233);
+    
+}
+.bg-bd{
+    background-color: rgb(252, 252, 252);
+    border-radius: 20px;
+    border-color: red
+}
